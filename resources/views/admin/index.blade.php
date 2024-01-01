@@ -13,7 +13,7 @@
                     <div>
                         <p class="mb-0 text-secondary">Total Booking</p>
                         <h4 class="my-1 text-info"></h4>
-                        <p class="mb-0 font-13">Today Sale:  ${{ $todayprice }}</p>
+                        <p class="mb-0 font-13">Today Sale:  </p>
                     </div>
                     <div class="widgets-icons-2 rounded-circle bg-gradient-blues text-white ms-auto"><i class='bx bxs-cart'></i>
                     </div>
